@@ -1,4 +1,4 @@
-# grpc-traffic-on-alb-to-eks
+# grpc-traffic-on-alb-to-eks FORK
 
 This repository contains an example project for deploying a gRPC service on Amazon EKS and exposing it via an Application Load Balancer (ALB).
 
